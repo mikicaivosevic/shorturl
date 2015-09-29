@@ -9,7 +9,7 @@ UrlService::create('http://www.example.com');
 
 ## Installing ShortUrl
 
-The recommended way to install Guzzle is through
+The recommended way to install ShortUrl is through
 [Composer](http://getcomposer.org).
 
 ```bash
